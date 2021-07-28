@@ -8,5 +8,7 @@ public class GitDemo {
         System.out.println("hot-fix a");
         System.out.println("hot-fix b");
         System.out.println("hot-fix c");
+
+        System.out.println("hot-conflict");
     }
 }
